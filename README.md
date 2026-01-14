@@ -1,7 +1,7 @@
-## Hi there 👋 It's me Akash
-
-**Aspiring Software Engineer | Java Developer | DSA Learner**
-
+<div>
+    <h1>Hi there 👋 It's me Akash</h1>
+    <p>Aspiring Software Engineer | Java Developer | DSA Learner</p>
+  </div>
 <img 
   align="right" 
   width="200" 
@@ -9,7 +9,6 @@
   style="margin-top: 40px;" 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFwaWVreDNtOGd3Mjg1dzltdm9tNWd0MHBtaXJ1c292aXhlNW5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"
 />
----
 
 ### 🚀 About Me
 - 🔭 Here's my [portfolio](https://akashdevhub.netlify.app/)      
@@ -36,12 +35,12 @@
 <img height="45" src="https://img.icons8.com/color/48/eclipse.png"/> <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/git.png"/> <img height="45" src="https://img.icons8.com/fluency/48/github.png"/> <img height="45" src="https://img.icons8.com/color/48/spring-logo.png"/>
 ---
 
+### 📈 GitHub Activity
+<img src="https://ghchart.rshah.org/itakash557-sudo" width="1000" />
 
+---
 ### 📊 GitHub Contribution Graph
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itakash557-sudo&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/itakash557-sudo)
 
----
 
-### 📈 GitHub Activity
-<img src="https://ghchart.rshah.org/itakash557-sudo" width="1000" />
 
