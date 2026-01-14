@@ -4,9 +4,9 @@
 
 <img 
   align="right" 
-  width="230" 
-  height="230" 
-  style="margin-top: 50px;" 
+  width="200" 
+  height="200" 
+  style="margin-top: 40px;" 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFwaWVreDNtOGd3Mjg1dzltdm9tNWd0MHBtaXJ1c292aXhlNW5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"
 />
 ---
