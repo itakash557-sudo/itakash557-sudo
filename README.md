@@ -1,6 +1,5 @@
 <h1 align="center">
   👋 It's me <span style="color:#8b5cf6">Akash</span> 
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50" />
 </h1>
 
 <p align="center">
@@ -19,6 +18,7 @@
 />
 
 
+
 ### 🚀 About Me
 - 🔭 Here's my [portfolio](https://akashdevhub.netlify.app/)      
 - 💻 Passionate **Java Developer** with strong fundamentals
@@ -27,7 +27,7 @@
 - 🎯 Preparing for **MNC Technical Interviews**
 - 🌱 Exploring **AI tools to improve coding productivity**
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🛠️ Tech Stack
 
