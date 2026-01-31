@@ -1,8 +1,11 @@
-<h1 align="center">Akash</h1>
+<h1 align="center">
+  👋 It's me <span style="color:#8b5cf6">Akash</span> 
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50" />
+</h1>
+
 <p align="center">
   <b>Software Engineer Aspirant • Java Backend • Problem Solver</b>
 </p>
-
 <p align="center">
   <img src="https://visitorbadge.vercel.app/api/badge/9c02b8f4-4749-4f0f-bcdc-2bad86201af0?style=flat&labelColor=1f2937&color=3b82f6" />
 </p>
