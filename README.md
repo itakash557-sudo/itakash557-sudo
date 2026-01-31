@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 IDE & Tools
+### 💻 IDE & Tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <img height="45" src="https://img.icons8.com/color/48/eclipse.png"/> <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/git.png"/> <img height="45" src="https://img.icons8.com/fluency/48/github.png"/> <img height="45" src="https://img.icons8.com/color/48/spring-logo.png"/>
 ---
 
