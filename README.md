@@ -35,8 +35,6 @@
 <img height="45" src="https://img.icons8.com/color/48/eclipse.png"/> <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" src="https://img.icons8.com/color/48/git.png"/> <img height="45" src="https://img.icons8.com/fluency/48/github.png"/> <img height="45" src="https://img.icons8.com/color/48/spring-logo.png"/>
 ---
 
-### 📈 GitHub Activity
-<img src="https://ghchart.rshah.org/itakash557-sudo" width="1000" />
 
 ---
 ### 📊 GitHub Contribution Graph
